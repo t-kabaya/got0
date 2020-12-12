@@ -1,0 +1,22 @@
+{
+  "name": "got",
+  "version": "0.1.0",
+  "summary": "A short description of got.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/26253721/got",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "26253721": "taikikabaya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/26253721/got.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "got/Classes/**/*"
+}
